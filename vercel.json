@@ -10,7 +10,7 @@
     {
       "src": "/(.*)",
       "dest": "app.py",
-      "methods": ["POST"] ,
+      "methods": [ "GET" ,"POST"] ,
       "headers": {
         "Access-Control-Allow-Origin" : "*"
       }
