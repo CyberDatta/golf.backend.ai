@@ -1,3 +1,4 @@
-fastapi
 uvicorn
-pydantic
+fastapi==0.109.1
+
+pydantic~=1.10.12
